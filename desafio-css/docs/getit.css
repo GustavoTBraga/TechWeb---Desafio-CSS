@@ -30,8 +30,8 @@ body {
 /* Você pode usar o CSS comentado abaixo, se ajudar */
 /* Fonte: https://codepen.io/CrisWoler/pen/ogXBLj */
  .logo{
-  width: 5%;
-  height: 5%;
+  width: 6%;
+  height: 6%;
   padding-right: 0.5%;
 }
 
@@ -142,7 +142,7 @@ form {
   display: flex;
   padding: 0.5rem;
   flex-wrap: wrap;
-  width: 13%;
+  width: 14.5%;
   border-radius: 0.5rem;
   margin: 1.2rem 0.24rem;
   font-family: 'Permanent Marker', cursive;
@@ -150,10 +150,11 @@ form {
 }
 
 .card-title{
-  font-size: 1.3rem;
+  font-size: 1.5rem;
 }
 
 .card-content{
+  font-size: 1.3rem;
   display: flex;
   padding-top: 1rem;
   color: #4c4c4c;
