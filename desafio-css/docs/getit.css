@@ -29,7 +29,23 @@ body {
 
 /* Você pode usar o CSS comentado abaixo, se ajudar */
 /* Fonte: https://codepen.io/CrisWoler/pen/ogXBLj */
-/* .btn {
+ .logo{
+  width: 5%;
+  height: 5%;
+  padding-right: 0.5%;
+}
+
+ .appbar{
+  display: flex;
+  justify-content: flex-start;
+  width: 100%;
+  align-items: center;
+  background-color: #f7d736;
+  padding: 0.5%;
+  box-shadow: 0rem 0.2rem 0.8rem #4c4c4c;
+}
+
+ .btn {
   position: relative;
   display: block;
   padding: 10px 15px;
@@ -77,4 +93,4 @@ body {
   padding-top: 120%;
 
   transition: width 0.2s ease-out, padding-top 0.2s ease-out;
-} */
+} 
